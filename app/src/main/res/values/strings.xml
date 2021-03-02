@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <string name="btn1">RED</string>
+    <string name="btn2">GREEN</string>
+    <string name="btn3">BLUE</string>
+</resources>
